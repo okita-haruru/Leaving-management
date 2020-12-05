@@ -1,0 +1,88 @@
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\请假管理系统.exe.config
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\请假管理系统.exe
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\请假管理系统.pdb
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.csprojAssemblyReference.cache
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.Properties.Resources.resources
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.csproj.GenerateResource.cache
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.csproj.CoreCompileInputs.cache
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.exe
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.pdb
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.register.resources
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.main_teacher.resources
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.teacher_check.resources
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.apply_add.resources
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.apply_detail.resources
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.login.resources
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.main_student.resources
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\Google.Protobuf.dll
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\MySql.Data.dll
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\Renci.SshNet.dll
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\System.Buffers.dll
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\System.Memory.dll
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\Zstandard.Net.dll
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\Google.Protobuf.xml
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\MySql.Data.xml
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\Renci.SshNet.xml
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\System.Buffers.xml
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\System.Memory.xml
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.csproj.CopyComplete
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.student_edit.resources
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.infor_stu.resources
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.info_teacher.resources
+C:\Users\我\Desktop\请假管理系统\请假管理系统\请假管理系统\obj\Debug\请假管理系统.info_clazz.resources
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.csprojAssemblyReference.cache
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.infor_stu.resources
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.info_clazz.resources
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.info_teacher.resources
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.register.resources
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.main_teacher.resources
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.student_edit.resources
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.teacher_check.resources
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.apply_add.resources
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.apply_detail.resources
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.login.resources
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.Properties.Resources.resources
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.main_student.resources
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.csproj.GenerateResource.cache
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.csproj.CoreCompileInputs.cache
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.exe
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.pdb
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\请假管理系统.exe.config
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\请假管理系统.exe
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\请假管理系统.pdb
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\Google.Protobuf.dll
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\MySql.Data.dll
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\Renci.SshNet.dll
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\System.Buffers.dll
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\System.Memory.dll
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\Zstandard.Net.dll
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\Google.Protobuf.xml
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\MySql.Data.xml
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\Renci.SshNet.xml
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\System.Buffers.xml
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\System.Memory.xml
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\我\Desktop\请假管理系统 plus\请假管理系统\请假管理系统\obj\Debug\请假管理系统.csproj.CopyComplete
