@@ -129,10 +129,10 @@ namespace 请假管理系统
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            int i1 = textBox1.Text.IndexOf(" or ");
-            int i2 = textBox1.Text.IndexOf(" OR ");
-            int i3 = textBox1.Text.IndexOf(" and ");
-            int i4 = textBox1.Text.IndexOf(" AND ");
+            int i1 = textBox1.Text.IndexOf("or");
+            int i2 = textBox1.Text.IndexOf("OR");
+            int i3 = textBox1.Text.IndexOf("and");
+            int i4 = textBox1.Text.IndexOf("AND");
             int i5= textBox1.Text.IndexOf("%");
             int i6 = textBox1.Text.IndexOf("_");
             if (i1 + i2 + i3 + i4 + i5 + i6 != -6)

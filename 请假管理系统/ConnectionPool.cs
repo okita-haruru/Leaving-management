@@ -16,12 +16,12 @@ namespace 请假管理系统
         private int size = 1;//池中连接数
         private int useCount = 0;//已经使用的连接数
         private ArrayList pool = null;//连接保存的集合
-        private String ConnectionStr = "";//连接字符串
+        private String ConnectionStr = "server=localhost;user id=apply_admin;password=zc000910;database=apply";//连接字符串
                                                                                                                                                                                                                                                                                                      
         public ConnectionPool()
         {
             //数据库连接字符串
-            ConnectionStr = "server=127.0.0.1;port=3306;user=apply_admin;password=zc000910; database=apply;";
+            //ConnectionStr = ";";
             //创建可用连接的集合
             pool = new ArrayList();
         }

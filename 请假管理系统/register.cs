@@ -33,6 +33,8 @@ namespace 请假管理系统
             label12.Hide();
             pictureBox7.Hide();
             label10.Hide();
+            comboBox1.SelectedIndex = 0;
+            comboBox2.SelectedIndex = 0;
         }
 
         private void label11_Click(object sender, EventArgs e)
@@ -65,7 +67,6 @@ namespace 请假管理系统
                 pictureBox3.Show();
                 label11.Show();
                 flag = false;
-                return;
             }
             else
             {
@@ -77,7 +78,6 @@ namespace 请假管理系统
                 flag = false;
                 pictureBox5.Show();
                 label13.Show();
-                return;
             }
             else
             {
@@ -90,13 +90,13 @@ namespace 请假管理系统
                 flag = false;
                 pictureBox4.Show();
                 label12.Show();
-                return;
             }
             else
             {
                 pictureBox4.Hide();
                 label12.Hide();
             }
+            
             string sql = $"select * from tb_student where stu_num = '{textBox1.Text}'"; ;
             selecter selecterDemo = new selecter(CP, sql);
             try
@@ -106,7 +106,6 @@ namespace 请假管理系统
                     pictureBox7.Show();
                     label10.Show();
                     flag = false;
-                    return;
                 }
                 else
                 {
@@ -120,6 +119,10 @@ namespace 请假管理系统
                     newstu.setStu_tel(textBox5.Text);
                     newstu.setStu_addTime(DateTime.Now);
                     newstu.setStu_editTime(DateTime.Now);
+                }
+                if (flag == false)
+                {
+                    return;
                 }
             }
             finally

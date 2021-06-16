@@ -15,6 +15,7 @@ namespace 请假管理系统
     {
         ConnectionPool CP;
         student studentDemo;
+        password pw = new password();
         public student_edit(ConnectionPool CP,student studentDemo)
         {
             InitializeComponent();
@@ -27,7 +28,7 @@ namespace 请假管理系统
             textBox2.Text = studentDemo.getStu_name();
             comboBox1.SelectedIndex = studentDemo.getClazz_ID()-1;
             textBox5.Text = studentDemo.getStu_tel();
-            textBox3.Text = studentDemo.getStu_password();
+            textBox3.Text = pw.unlockstring(studentDemo.getStu_password());
         }
 
         private void student_edit_Load(object sender, EventArgs e)
@@ -40,7 +41,7 @@ namespace 请假管理系统
             studentDemo.setStu_name(textBox2.Text);
             studentDemo.setClazz_ID(comboBox1.SelectedIndex + 1);
             studentDemo.setStu_tel(textBox5.Text);
-            studentDemo.setStu_password(textBox3.Text);
+            studentDemo.setStu_password(pw.lockstring(textBox3.Text));
             sql_student ss = new sql_student(CP);
             int j=ss.update(studentDemo);
             if(1==j)
